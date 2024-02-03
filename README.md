@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **tonmoy15-5200@diu.edu.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e-ID2RaXfQjEKnajEtF8o34TKUz6IQrP/view](https://drive.google.com/file/d/1e-ID2RaXfQjEKnajEtF8o34TKUz6IQrP/view)
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
