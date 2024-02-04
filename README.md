@@ -11,7 +11,7 @@ full-stack expertise and a passion for creating innovative solutions.</h3>
 
 - 🔭 I’m currently working on **Web & App Development**
   
-- 👀 Interested in ML, Embedded System
+- 👀 Interested in **ML, Embedded System**
 
 - 👨‍💻 All of my projects are available at [https://md-tanvirhasantonmoy.web.app/](https://md-tanvirhasantonmoy.web.app/)
 
