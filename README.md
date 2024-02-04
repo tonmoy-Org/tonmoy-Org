@@ -9,9 +9,9 @@ full-stack expertise and a passion for creating innovative solutions.</h3>
 
 <p align="left"> <a href="https://twitter.com/tonmoyorg" target="blank"><img src="https://img.shields.io/twitter/follow/tonmoyorg?logo=twitter&style=for-the-badge" alt="tonmoyorg" /></a> </p>
 
-- 🔭 I’m currently working on **App & Web-Development**
-
-- 🌱 I’m currently learning **I’m currently learning Web Development and Compititive Programming**
+- 🔭 I’m currently working on **Web & App Development**
+  
+- 👀 Interested in ML, Embedded System
 
 - 👨‍💻 All of my projects are available at [https://md-tanvirhasantonmoy.web.app/](https://md-tanvirhasantonmoy.web.app/)
 
