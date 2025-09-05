@@ -6,7 +6,7 @@ I'm a full-stack web developer passionate about building efficient, scalable, an
 
 ## ⚙️ Tech Stack
 
-React, React Native, Expo, Next.js, Redux, Tailwind CSS, Bootstrap, Node.js, Express.js, JavaScript, TypeScript, PHP, Python, Java, C, MongoDB, MySQL, PostgreSQL, AWS S3, Firebase SDK, C-Panel, GitHub.
+React, React Native, Expo, Next.js, Redux, Tailwind CSS, Bootstrap, Node.js, Express.js, JavaScript, TypeScript, PHP, Python, Java, C, C++, MongoDB, MySQL, PostgreSQL, AWS S3, Firebase SDK, C-Panel, GitHub.
 
 ---
 
