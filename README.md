@@ -12,5 +12,5 @@ React, React Native, Expo, Next.js, Redux, Tailwind CSS, Bootstrap, Node.js, Exp
 
 ## 🔗 Links
 
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue)](https://md-tanvirhasantonmoy.vercel.app)
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue)](https://tonmoy-org.vercel.app/)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/md-tanvirhasantonmoy)
